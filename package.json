@@ -3,5 +3,17 @@
     "author": {
         "name": "naranjito72"
     },
-    "version": "0.0.1"
+    "version": "0.0.2",
+    "description": "Code to make an adding operation usin reduce method",
+    "license": "MIT",
+    "main": "index.js",
+    "keywords": [
+        "reduce",
+        "adding",
+        "npm",
+        "package"
+    ],
+    "repository": {
+        "directory": "https://github.com/backEndLaVioleta/addReduce"
+    }
 }
