@@ -1,0 +1,1 @@
+const addingOperation = (arr) => arr.reduce((acc, elm) => acc + elm, 0);
