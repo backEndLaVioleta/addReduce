@@ -13,5 +13,6 @@ Creation of a simple npm package with even a simpler operation
 
 ```
 npm i @naranjito72/reduceoperation
-´´´
+
+```
 
