@@ -7,5 +7,11 @@
 
 #### Objective
 
-Creation of a simple npm package with even a simpler operation 
+Creation of a simple npm package with even a simpler operation
+
+#### Install command line
+
+```
+npm i @naranjito72/reduceoperation
+´´´
 
